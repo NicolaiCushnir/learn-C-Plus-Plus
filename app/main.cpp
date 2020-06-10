@@ -1,5 +1,8 @@
-#include<iostream>
+#include <iostream>
+#include <cstring>
 
 int main() {
-   std::cout << "vau kruta\n";
+	int age;
+	age = 26;
+	std::cout << "I have " << age << " years. \n";
 }
