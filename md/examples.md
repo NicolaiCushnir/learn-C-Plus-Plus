@@ -33,13 +33,32 @@ int main() {
 }
 ```
 
-* Cîte grade sunt în Moldova
+* Maximum la 2 numere. Vreu sa fac alt fel
 
 ```c++
-int main() {
-	int temp = 0;
-	std::cout << "What temperature is in Moldova? ";
-	std::cin >> temp;
-	std::cout << "In Moldova is " << temp << " degrees." << "\n";
+#include <iostream>
+
+using namespace std;
+
+int main () {
+
+double a, b, max;
+
+cout << "a=" ; cin>>a;
+cout << "b=" ; cin>>b;
+
+max = a;
+
+	{
+		if (b > max) {
+			cout << "Maximul este " << b << endl;
+		} else if (a==b) {
+			cout << "Numerele sunt egale" << endl;
+		} else if (b<max) {
+			cout << "Maximul este " << a << endl;
+		}
+	}
+
+	return 0;
 }
 ``` 
