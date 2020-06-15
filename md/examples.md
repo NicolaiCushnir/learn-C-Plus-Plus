@@ -7,6 +7,7 @@ int main() {
    std::cout << message;
 }
 ```
+
 * The sum of 2 numbers.
 
 ```C++
@@ -19,7 +20,7 @@ int main() {
 }
 ```
 
-* Write you name with parameter
+* Write you name, with `cin` operator.
 
 ```c++
 #include <iostream>
@@ -33,7 +34,7 @@ int main() {
 }
 ```
 
-* Maximum la 2 numere.
+* Max to 2 numbers..
 
 ```c++
 #include <iostream>
@@ -60,7 +61,7 @@ int main () {
 }
 ``` 
 
-* Maximum la 3 numere
+* Max to 3 numbers
 
 ```C++
 #include <iostream>
@@ -89,38 +90,72 @@ int main () {
 }
 ```
 
-* switch example. After change ...
+* Încă mă gîndesc la acest exercițiu... Vreau ca în loc să scriu ce lună a anului este cu cifre `{ 1 ~ 12 }` să scriu chiar lunilie anului cu cuvinte nu cu cifre. Dar în C++ e dificil să faci asta.
+
+```c++
+#include <iostream>
+#include <cstring>
+
+int main () {
+	std::cout << "What month you are born ? \n";
+	std::cout << "Write with numbers {1 ~ 12} ";
+	
+	int born = 12;
+	
+	std::cin >> born;
+	
+	switch(born) {
+		case 1 :
+			std::cout << "ianuarie \n"; break;
+		case 2 :
+			std::cout << "februarie \n"; break;
+		case 3 :
+			std::cout << "martie \n"; break;
+		case 4 :
+			std::cout << "aprilie \n"; break;
+		case 5 :
+			std::cout << "mai \n"; break;
+		case 6 :
+			std::cout << "iunine \n"; break;
+		case 7 :
+			std::cout << "iulie \n"; break;
+		case 8 :
+			std::cout << "august \n"; break;
+		case 9 :
+			std::cout << "septembrie \n"; break;
+		case 10 :
+			std::cout << "octombrie \n"; break;
+		case 11 :
+			std::cout << "noiembrie \n"; break;
+		case 12 :
+			std::cout << "decembrie \n"; break;
+		default:
+			std::cout << "Ceva ai facut greșit. \n";
+	}
+}
+```
+
+* A simple while loop
 
 ```c++
 #include <iostream>
 
 int main() {
-  
-  int number = 9;
-  
-  switch(number) {
-    
-    case 1 :
-      std::cout << "Bulbusaur\n";
-      break;
-    case 2 :
-      std::cout << "Ivysaur\n";
-      break;
-    case 3 :
-      std::cout << "Venusaur\n";
-      break;
-    case 4 :
-      std::cout << "Charmander\n";
-      break;
-    case 5 :
-      std::cout << "Charmeleon\n";
-      break;
-    case 6 :
-      std::cout << "Charizard\n";
-      break;
-    default :
-      std::cout << "Unknown\n";
-      break; 
+
+  int guess;
+  int tries = 0;
+  std::cout << "I have a number 1-10.\n";
+  std::cout << "Please guess it: ";
+  std::cin >> guess;
+ 
+  while (guess != 8 && tries < 50) {
+    std::cout << "Wrong guess, try again: ";
+    std::cin >> guess;
+    tries++;
   }
+  
+  if (guess == 8) {
+    std::cout << "You got it!\n";
+  }  
 }
 ```

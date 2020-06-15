@@ -1,29 +1,20 @@
 #include <iostream>
-#include <cstring>
 
-int main () {
-	// std::cout << "What month you are born ?  " << "\n";
+int main() {
 
-	int grade = 12;
-
-	switch (grade) {
-		case 1:
-			std::cout << "ianuarie\n"; break;
-		case 2:
-			std::cout << "februarie\n"; break;
-		case 7:
-			std::cout << "iulie\n"; break;
-		case 8:
-	  		std::cout << "august\n"; break;
-		case 9:
-	    	std::cout << "Freshman\n"; break;
-	  	case 10:
-	    	std::cout << "Sophomore\n"; break;
-	  	case 11:
-	    	std::cout << "Junior\n"; break;
-	  	case 12:
-	    	std::cout << "Senior\n"; break;
-	  	default:
-	    	std::cout << "Invalid\n"; break;
-	}
+  int guess;
+  int tries = 0;
+  std::cout << "I have a number 1-10.\n";
+  std::cout << "Please guess it: ";
+  std::cin >> guess;
+ 
+  while (guess != 8 && tries < 50) {
+    std::cout << "Wrong guess, try again: ";
+    std::cin >> guess;
+    tries++;
+  }
+  
+  if (guess == 8) {
+    std::cout << "You got it!\n";
+  }  
 }
