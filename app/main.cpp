@@ -1,26 +1,29 @@
-// Maximum dintre 2 numere.
-
 #include <iostream>
+#include <cstring>
 
 int main () {
-	double a, b, c;
-	std::cout << "Scrie 3 numere : \n";
-	std::cout << "Introdu primu număr. ";
-	std::cin >> a;
-	std::cout << "Introdu al 2-lea număr. ";
-	std::cin >> b;
-	std::cout << "Introdu al 2-lea număr. ";
-	std::cin >> c;
+	// std::cout << "What month you are born ?  " << "\n";
 
-	if(a > b && a > c) {
-		std::cout << "Maximum este : " << a << "\n";
-	} else if (b > a && b > c) {
-		std::cout << "Maximum este : " << b << "\n";
-	} else if (a == b && b == c){
-		std::cout << "Numerele sunt egale \n";
-	} else if (c > a && c > b) {
-		std::cout << "Maximum este : " << c << "\n";
-	} else {
-		std::cout << "Ceva ai greșit. \n";
-	} 
+	int grade = 12;
+
+	switch (grade) {
+		case 1:
+			std::cout << "ianuarie\n"; break;
+		case 2:
+			std::cout << "februarie\n"; break;
+		case 7:
+			std::cout << "iulie\n"; break;
+		case 8:
+	  		std::cout << "august\n"; break;
+		case 9:
+	    	std::cout << "Freshman\n"; break;
+	  	case 10:
+	    	std::cout << "Sophomore\n"; break;
+	  	case 11:
+	    	std::cout << "Junior\n"; break;
+	  	case 12:
+	    	std::cout << "Senior\n"; break;
+	  	default:
+	    	std::cout << "Invalid\n"; break;
+	}
 }
