@@ -2,5 +2,5 @@
 
 # learn-C-Plus-Plus
 
-* [Install GCC Compiler](md/first/steps.md)
+* [Install GCC Compiler](md/first_steps.md)
 * [Examples](md/examples.md)
