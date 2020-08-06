@@ -1,12 +1,5 @@
-#include<iostream>
-#include <string.h>
+#include <iostream>
 
-using namespace std;
-
-int main()
-{
-   cout<<"Hello World!";
-
-   _getw;
-   return 0;
+int main () {
+	std::cout << "Vreau să verific dacă merge limba romînă.";
 }
