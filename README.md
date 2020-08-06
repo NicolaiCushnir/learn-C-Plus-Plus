@@ -7,4 +7,11 @@
 * [Frameworks](md/frameworks.md)
 * Freads
 * OOP
+* [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
+* Parallel programming
+* High Performance
+* Security
+* Optimisation
+* Difference C++ Versions
+* Minuses
