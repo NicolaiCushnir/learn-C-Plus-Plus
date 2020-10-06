@@ -8,19 +8,27 @@
 * [C++ Versions](md/versions.md)
 * [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
+* [Algorithms](md/algorithms.md)
 * Threads
 * OOP
+* Тестирование
+* нулевая абстракция ?
+* [Multithreading](md/multithreading.md)
 * Headers
 * Parallel programming
 * High Performance
 * Security
-* [Algorithms](md/algorithms.md)
 * Optimisation
 * Minuses
 * Pointers
 * Debugging
 * Code Review
-
+* Парадигмы
+* Benchmarks Game
+* Движок для сайта - Как написать свой движок для сайта на C++ >> [cgicc](#) + я должен знать протоколы сетей. Пока не знаю почему. Но надо значит надо.
+* Ядро C++ или внутренние кишки. Инересно, что у него там внутри.
+* Community && Meeting
+* Future Dev for C++ или как я могу повлиять на язык C++ ? В хорошем смысле этого слово.
 
 ## How to create back-end with helpful C++ ?
 
