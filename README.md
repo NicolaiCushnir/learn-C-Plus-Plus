@@ -14,7 +14,7 @@
 * Parallel programming
 * High Performance
 * Security
-* [Algorithms](algorithms.md)
+* [Algorithms](md/algorithms.md)
 * Optimisation
 * Minuses
 * Pointers
