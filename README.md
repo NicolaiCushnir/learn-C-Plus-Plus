@@ -8,15 +8,19 @@
 * [C++ Versions](md/versions.md)
 * [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
-* Freads
+* Threads
 * OOP
 * Headers
 * Parallel programming
 * High Performance
 * Security
+* [Algorithms](algorithms.md)
 * Optimisation
 * Minuses
 * Pointers
+* Debugging
+* Code Review
+
 
 ## How to create back-end with helpful C++ ?
 
