@@ -40,3 +40,4 @@
 ## How to create back-end with helpful C++ ?
 
 * [Standard library for web](https://cpp-netlib.org/)
+* [Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
