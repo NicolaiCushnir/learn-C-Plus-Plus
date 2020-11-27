@@ -2,6 +2,7 @@
 
 ## learn-C-Plus-Plus
 
+* [Intro](md/intro.md)
 * [Install GCC](md/first_steps.md)
 * [Examples](md/examples.md)
 * [Frameworks](md/frameworks.md)
