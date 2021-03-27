@@ -1,4 +1,4 @@
-![image](img/build-itachi.png)
+![image](img/OkXl5y.jpg)
 
 ## learn-C-Plus-Plus
 
