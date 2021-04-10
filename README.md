@@ -11,10 +11,12 @@
 * [Questions](md/questions.md)
 * [Algorithms](md/algorithms.md)
 * [Multithreading](md/multithreading.md)
+* [Syntax Errors](md/errors.md)
+* [Functions](md/functions.md)
+* [String](md/string.md)
 * Threads
 * Pattern Design
 * OOP 
-* String
 * Multi Paradigm C++
 * Тестирование
 * Нулевая абстракция ?
