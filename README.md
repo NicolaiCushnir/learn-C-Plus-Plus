@@ -7,7 +7,7 @@
 * [Install GCC](md/first_steps.md)
 * [Examples](md/examples.md)
 * [Frameworks](md/frameworks.md)
-* [C++ Versions](md/versions.md)
+* [C++ Versions](md/versions.md) or Standart C++
 * [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
 * [Algorithms](md/algorithms.md)
@@ -40,7 +40,8 @@
 * Makefile
 * Questions
 * Переполнений буфера и утечек
-* WinApi 
+* WinApi
+* прототипирования
 * [Future](md/future.md)
 
 **note 1** Движок для сайта - иными словами написать генератор html кода
