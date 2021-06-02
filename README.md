@@ -3,7 +3,7 @@
 ## learn-C-Plus-Plus
 
 * [Intro](md/intro.md)
-* [Cons vs Pros](cons_vs_pros.md) at C++
+* [Cons vs Pros](md/cons_vs_pros.md) at C++
 * [Install GCC](md/first_steps.md)
 * [Examples](md/examples.md)
 * [Frameworks](md/frameworks.md)
