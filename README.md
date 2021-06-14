@@ -4,12 +4,8 @@
 
 * [Intro](md/intro.md)
 * [Cons vs Pros](md/cons_vs_pros.md) at C++
-* [Install GCC](md/first_steps.md)
-* [Examples](md/examples.md)
-* [Frameworks](md/frameworks.md)
+* [First Program](md/hello_world.md)
 * [C++ Versions](md/versions.md) or Standart C++
-* [Compilers](md/compilers.md)
-* [Questions](md/questions.md)
 * [Algorithms](md/algorithms.md)
 * [Multithreading](md/multithreading.md)
 * [Syntax Errors](md/errors.md)
@@ -38,10 +34,14 @@
 * Debugging
 * Системы счисление 
 * Makefile
-* Questions
+* Log Files
 * Переполнений буфера и утечек
 * WinApi
+* [Functors](md/functors.md)
 * прототипирования
+* [Frameworks](md/frameworks.md)
+* [Compilers](md/compilers.md)
+* [Questions](md/questions.md)
 * [Future](md/future.md)
 
 **note 1** Движок для сайта - иными словами написать генератор html кода
