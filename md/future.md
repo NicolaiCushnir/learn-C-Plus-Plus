@@ -5,6 +5,7 @@
 ### Standart C++
 
 * C++ 11
+* C++ 14
 * C++ 17
 * C++ 20 **Stable Realise**
 * C++ 23

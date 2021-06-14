@@ -1,10 +1,10 @@
 ![image](img/OkXl5y.jpg)
 
 ## learn-C-Plus-Plus
-
-* [Intro](md/intro.md)
-* [Cons vs Pros](md/cons_vs_pros.md) at C++
+* [Intro in C++](md/intro.md)
 * [First Program](md/hello_world.md)
+* [Types Of Data](type_of_data.md)
+* Variable Scope
 * [C++ Versions](md/versions.md) or Standart C++
 * [Algorithms](md/algorithms.md)
 * [Multithreading](md/multithreading.md)
@@ -32,22 +32,30 @@
 * Движок для сайта
 * Core C++
 * Debugging
+* Classes
+* Objects
+* Constructor
+* Exceptions (try, throw, catch)
 * Системы счисление 
 * Makefile
 * Log Files
 * Переполнений буфера и утечек
 * WinApi
 * [Functors](md/functors.md)
-* прототипирования
+* Прототипирования
+* Компоновщики
+* Линковка
 * [Frameworks](md/frameworks.md)
 * [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
 * [Future](md/future.md)
+* [Examples](md/examples.md)
 
 **note 1** Движок для сайта - иными словами написать генератор html кода
 
 ### How to create back-end with helpful C++ ?
 
+* [programiz](https://www.programiz.com/cpp-programming)
 * [Standard library for web](https://cpp-netlib.org/)
 * [Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Devdocs.io](https://devdocs.io/cpp/)

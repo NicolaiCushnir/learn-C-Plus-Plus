@@ -32,18 +32,13 @@ C++11!
 * Complex syntax, ahaha :D. [C/C++]. Nonsense this is wrong. C++ seem like javascript. So what does it mean a plus. I'll tell you a secret Python is more difficulty than C++. And what is more I hate Python. it must burn in hell. The main thing you should know is that the algorithms are the same in all languages. **+1**
 * Doesn’t support program namespace [C]. For me this is plus. **+1**
 * Incapable of solving modern, real-world programming challenges [C] **?**
-* Less efficient object-oriented system compared to other OOP-based programming languages [C++] **maybe**
+* Less efficient object-oriented system compared to other OOP-based programming languages [C++] such as Java. **Maybe**
 * Need to manually create the high-level constructs [C]  Good. There is already exist the high-level constructs, don't worry. **+1**
-* No garbage collection or dynamic memory allocation [C/C++]. Very well, not buggy and does not slow down but flies like the wind. This is stupid item. **+1**
-* No run-time checking [C/C++]
-* No strict type checking [C]
-* Not an easy first-choice for learning programming [C/C++]
+* No garbage collection or dynamic memory allocation [C/C++]. Very well, not buggy and does not slow down but flies like the wind. This is stupid thing. **+1**
+* No run-time checking [C/C++] **?**
+* No strict type checking [C] **?**
+* Not an easy first-choice for learning programming [C/C++] **?**
 * Plagued by the issues of buffer overflow and memory corruption [C/C++]
-* Smaller standard library [C]
-
-check bellow
-
-```algorith
-Долгая компиляция
-Больший объем сгенерированного машинного кода
-```
+* Smaller standard library [C] **?**
+* Долгая компиляция **?**
+* Больший объем сгенерированного машинного кода **?**

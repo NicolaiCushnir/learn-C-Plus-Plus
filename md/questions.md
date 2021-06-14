@@ -10,3 +10,8 @@
 * Sh de ce cind vreu sa dechid exe consola repede se inchide eu vreu sa vad hello world?
 * изминение кодировки на `encoding utf-8` ? Ca sa mearga in toate limble romana, rusa si asa mai departe.
 * стандарты C++14, C++17
+* C++ является проприетарным или open source с открытым кодом?
+* `c++-cli` что это?
+*  Глава 26. Шаблоны C++
+    * Глава 27. Стандартная библиотека шаблонов
+    * Глава 28. Как защититься от хакеров
