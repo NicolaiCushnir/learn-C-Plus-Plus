@@ -51,10 +51,7 @@
 * [Future](md/future.md)
 * [Examples](md/examples.md)
 
-**note 1** Движок для сайта - иными словами написать генератор html кода
-
 ### How to create back-end with helpful C++ ?
-
 * [programiz](https://www.programiz.com/cpp-programming)
 * [Standard library for web](https://cpp-netlib.org/)
 * [Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
@@ -63,3 +60,5 @@
 * [YouTube : Donut-shaped C code that generates a 3D spinning donut](https://www.youtube.com/watch?v=DEqXNfs_HhY&list=PLQqEY2kzSbZ4NMd7xsuc28a6Kc-_300Jb&index=4&ab_channel=LexFridman)
 * [Using CMake and managing dependencies](https://eliasdaler.github.io/using-cmake/)
 * [Boost](https://www.boost.org/)
+* [Docs](https://devdocs.io/cpp/)
+* [cplusplus.com/doc](https://www.cplusplus.com/doc/tutorial/program_structure/)
