@@ -5,7 +5,7 @@
 * [First Program](md/hello_world.md)
 * [Types Of Data](type_of_data.md)
 * Variable Scope
-* [C++ Versions](md/versions.md) or Standart C++
+* [Standart C++](md/standart_c++.md)
 * [Algorithms](md/algorithms.md)
 * [Multithreading](md/multithreading.md)
 * [Syntax Errors](md/errors.md)
