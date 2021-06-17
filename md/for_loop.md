@@ -1,3 +1,6 @@
+* Bellow is simple for loop together with array.
+
+```C++
 #include <iostream>
 #include <string>
 
@@ -11,10 +14,10 @@ int main() {
 		"Alexandru Tarus"
 	};
 
-	// std::cout << i << " " << "s" << '\n';
 	for(int i=1; i<=5; i++) {
 		std::cout << i << " " << users[i] << '\n';
 	}
 
 	return 0;
 }
+```
