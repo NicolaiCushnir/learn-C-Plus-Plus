@@ -1,20 +1,20 @@
 ![image](img/OkXl5y.jpg)
 
 ## learn-C-Plus-Plus
-* [Intro in C++](md/INTRO.md)
+* [Intro in C++](md/INTRO_IN_C++.md)
 * [Pros and Cons](md/PROS_AND_CONS.md)
 * [First Program](md/FIRST_PROGRAM.md)
 * [Types Of Data](md/TYPE_OF_DATA.md)
 * [Variable Scope](md/VARIABLE_SCOPE.md)
-* [Standart C++](md/STANDART_c++.md)
-* [Algorithms](md/ALGORITHMS.md)
-* [Multithreading](md/MULTITHREADING.md)
-* [Syntax Errors](md/TYPES_OF_ERROS.md)
+* [Standart C++](md/STANDART_C++.md)
+* [Algorithms](md/ALGORITHMS_2.md)
+* [Multithreading](md/MULTITHREADING_2.md)
+* [Syntax Errors](md/TYPES_OF_ERRORS.md)
 * [Functions](md/FUNCTIONS.md)
 * [Functors](md/FUNCTORS.md)
 * [String](md/STRING.md)
 * [For Loop](md/FOR_LOOP.md)
-* [Headers](md/HEADERS.md)
+* [Headers](md/HEADERS_2.md)
 * [Pattern Design](md/PATTERN_DESIGN.md)
 * Threads
 * Array
