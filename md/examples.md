@@ -1,3 +1,6 @@
+### [Return At Main Page](../README.md)
+
+### Examples of C++ Code :
 * Very simple calculator. Yeah. I am glad that i made this program. :)
 
 ```c++
@@ -16,7 +19,6 @@ int main()
     return 0; 
 }
 ```
-
 
 * learn string
 

@@ -4,6 +4,8 @@ float b;
 double c = 19.3;
 char c = 'c'; 
 bool = true;
+short
+double
 
 * In C++ can change variable so like in JavaScript.
 

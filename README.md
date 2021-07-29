@@ -1,31 +1,32 @@
 ![image](img/OkXl5y.jpg)
 
 ## learn-C-Plus-Plus
-* [Intro in C++](md/intro.md)
-* [First Program](md/hello_world.md)
-* [Types Of Data](type_of_data.md)
-* Variable Scope
-* [Standart C++](md/standart_c++.md)
-* [Algorithms](md/algorithms.md)
-* [Multithreading](md/multithreading.md)
-* [Syntax Errors](md/errors.md)
-* [Functions](md/functions.md)
-* [String](md/string.md)
+* [Intro in C++](md/INTRO.md)
+* [Pros and Cons](md/PROS_AND_CONS.md)
+* [First Program](md/FIRST_PROGRAM.md)
+* [Types Of Data](md/TYPE_OF_DATA.md)
+* [Variable Scope](md/VARIABLE_SCOPE.md)
+* [Standart C++](md/STANDART_c++.md)
+* [Algorithms](md/ALGORITHMS.md)
+* [Multithreading](md/MULTITHREADING.md)
+* [Syntax Errors](md/TYPES_OF_ERROS.md)
+* [Functions](md/FUNCTIONS.md)
+* [Functors](md/FUNCTORS.md)
+* [String](md/STRING.md)
+* [For Loop](md/FOR_LOOP.md)
+* [Headers](md/HEADERS.md)
+* [Pattern Design](md/PATTERN_DESIGN.md)
 * Threads
 * Array
-* [For Loop](md/for_loop.md)
 * Parser
-* Pattern Design
 * OOP 
 * Multi Paradigm C++
 * Тестирование
 * Нулевая абстракция ?
-* Headers
-* Parallel programming
+* Parallel Programming
 * High Performance
 * Security
 * Optimisation
-* Minuses
 * Pointers
 * Debugging
 * Code Review
@@ -34,7 +35,6 @@
 * Benchmarks Game
 * Движок для сайта
 * Core STL C++
-* Debugging
 * Classes
 * Objects
 * Constructor
@@ -44,14 +44,12 @@
 * Log Files
 * Переполнений буфера и утечек
 * WinApi
-* [Functors](md/functors.md)
 * Прототипирования
 * Компоновщики
 * Линковка
 * [Frameworks](md/frameworks.md)
 * [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
-* [Future](md/future.md)
 * [Examples](md/examples.md)
 
 ### Books:

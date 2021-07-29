@@ -1,3 +1,6 @@
+### [Return At Main Page](../README.md)
+
+### Topic : For Loop
 * Bellow is simple for loop together with array.
 
 ```C++
@@ -6,7 +9,7 @@
 
 int main() {
 	std::string users[6] = {
-		"Emty",
+		"Emty User",
 		"Nicolai Cushnir",
 		"Ion Mocanu",
 		"Vova Muschchei",
