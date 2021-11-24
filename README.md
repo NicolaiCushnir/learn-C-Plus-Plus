@@ -1,3 +1,5 @@
+**attention** This repository is very crude and needs editing!
+
 ![image](img/OkXl5y.jpg)
 
 ## learn-C-Plus-Plus
@@ -16,6 +18,7 @@
 * [For Loop](md/FOR_LOOP.md)
 * [Headers](md/HEADERS_2.md)
 * [Pattern Design](md/PATTERN_DESIGN.md)
+* [Garbage Collecton](md/GARBAGE_COLLECTON.md)
 * Threads
 * Array
 * Parser
@@ -47,10 +50,15 @@
 * Прототипирования
 * Компоновщики
 * Линковка
+* утечки памети в с++
 * [Frameworks](md/frameworks.md)
 * [Compilers](md/compilers.md)
 * [Questions](md/questions.md)
 * [Examples](md/examples.md)
+* Утечки памети в С++
+
+### C++ Blog
+* [Бесконечная обезьяна - блог Нико Браиловского](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html#chapter_n_2)
 
 ### Books:
 * [tproger.ru](https://tproger.ru/books/cpp-books-master/)
