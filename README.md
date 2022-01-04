@@ -5,20 +5,23 @@
 > Есть всего два типа языков программирования: те, на которые люди всё время ругаются, и те, которые никто не использует. Bjarne Stroustrup.
 
 # learn-C-Plus-Plus
-* [First Program](md/FIRST_PROGRAM.md)
-* [Types Of Data](md/TYPE_OF_DATA.md)
-* [Variable Scope](md/VARIABLE_SCOPE.md)
-* [Standart C++](md/STANDART_C++.md)
-* [Algorithms](md/ALGORITHMS_2.md)
-* [Multithreading](md/MULTITHREADING_2.md)
-* [Syntax Errors](md/TYPES_OF_ERRORS.md)
-* [Functions](md/FUNCTIONS.md)
-* [Functors](md/FUNCTORS.md)
-* [String](md/STRING.md)
-* [For Loop](md/FOR_LOOP.md)
-* [Headers](md/HEADERS_2.md)
-* [Pattern Design](md/PATTERN_DESIGN.md)
-* [Garbage Collecton](md/GARBAGE_COLLECTON.md)
+* [Types Of Data](docs/TYPE_OF_DATA.md)
+* [Variable Scope](docs/VARIABLE_SCOPE.md)
+* [Standart C++](docs/STANDART_C++.md)
+* [Algorithms](docs/ALGORITHMS_2.md)
+* [Multithreading](docs/MULTITHREADING_2.md)
+* [Syntax Errors](docs/TYPES_OF_ERRORS.md)
+* [Functions](docs/FUNCTIONS.md)
+* [Functors](docs/FUNCTORS.md)
+* [String](docs/STRING.md)
+* [For Loop](docs/FOR_LOOP.md)
+* [Headers](docs/HEADERS_2.md)
+* [Pattern Design](docs/PATTERN_DESIGN.md)
+* [Garbage Collecton](docs/GARBAGE_COLLECTON.md)
+* [Frameworks](docs/frameworks.md)
+* [Compilers](docs/compilers.md)
+* [Questions](docs/questions.md)
+* [Examples](docs/examples.md)
 * Threads
 * Array
 * Parser
@@ -51,11 +54,6 @@
 * Компоновщики
 * Линковка
 * утечки памети в с++
-* [Frameworks](md/frameworks.md)
-* [Compilers](md/compilers.md)
-* [Questions](md/questions.md)
-* [Examples](md/examples.md)
-* Утечки памети в С++
 
 ### C++ Blog
 * [Бесконечная обезьяна - блог Нико Браиловского](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html#chapter_n_2)
