@@ -180,3 +180,21 @@ int main() {
   }  
 }
 ```
+
+* Iteration pina la 1 miliard.
+
+```c++
+#include <iostream>
+
+int main() {
+	int i = 1;
+	for(i; i <= 10000000; i++) {
+		std::cout << i << '\n';
+		if(i == 10000000) {
+			std::cout << "Congratulation! Server Fell. \n";
+		}
+	}
+
+	return 0;
+}
+```
