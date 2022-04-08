@@ -1,7 +1,6 @@
 ### [Return At Main Page](../README.md)
 
 ### Compilers C++
-
 * `gcc` asta și este `G++` sau ele sunt diferite ?
 * Clang posibil ca este mai crutoi ka gcc. nu sunt sigur dar trebuie sa ferific: {
 	Для программистов Clang дает лучший контроль ошибок, оптимизации и unpredictable behavior. -fdebug-macro, -fsanitize=address, -fsanitize=memory, -fsanitize=undefined, -fsanitize=thread, -fsanitize=cfi, -fstack-protector, -fstack-protector-strong, -fstack-protector-all, -Rpass=inline, -Rpass=unroll, -Rpass=loop-vectorize, -Rpass-missed=loop-vectorize, -Rpass-analysis=loop-vectorize и т.д.

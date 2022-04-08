@@ -1,4 +1,4 @@
-### types of data.
+### Data Types.
 int a;
 float b; 
 double c = 19.3;
