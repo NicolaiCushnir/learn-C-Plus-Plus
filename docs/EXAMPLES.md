@@ -198,3 +198,16 @@ int main() {
 	return 0;
 }
 ```
+
+* In C++ can change variable so like in JavaScript.
+
+```C++
+int main () {
+	int number = 10; number = 5;
+
+	std::cout << number;
+	std::cout <<"\n";
+
+	return 0;
+}
+```
