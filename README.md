@@ -22,7 +22,7 @@
 * [Frameworks](docs/frameworks.md)
 * [Compilers](docs/compilers.md)
 * [Questions](docs/questions.md)
-* [Examples](docs/examples.md)
+* [Examples](docs/EXAMPLES.md)
 * Threads
 * Array
 * Parser
