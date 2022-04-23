@@ -25,6 +25,7 @@
 * [Examples](docs/EXAMPLES.md)
 * Threads
 * Array
+* Автоматицация С++
 * Parser
 * OOP 
 * Multi Paradigm C++

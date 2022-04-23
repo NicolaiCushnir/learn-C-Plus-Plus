@@ -1,4 +1,18 @@
-### [Return At Main Page](../README.md)
+### [return at main page](../README.md)
+
+* Write your name in console.
+
+```C++
+#include <iostream>
+#include <string>
+#include <cstring>
+
+int main() {
+	std::cout << "write your name ";
+	std::string name = "";
+	std::cin >> name;
+}
+```
 
 ### Examples of C++ Code :
 * Very simple calculator. Yeah. I am glad that i made this program. :)
@@ -20,16 +34,8 @@ int main()
 }
 ```
 
-* learn string
 
-```c++
-int main() {
-   std::string message = "this is a good thing dude. \n";
-   std::cout << message;
-}
-```
-
-* The sum of 2 numbers.
+* The sum at 2 numbers.
 
 ```C++
 int main() {
@@ -41,19 +47,6 @@ int main() {
 }
 ```
 
-* Write you name, with `cin` operator.
-
-```c++
-#include <iostream>
-#include <cstring>
-
-int main() {
-	std::string name = "";
-	std::cout << "Write your name : ";
-	std::cin >> name;
-	std::cout << "Your name is : " << name << "\n\n";
-}
-```
 
 * Max to 2 numbers..
 
@@ -204,10 +197,7 @@ int main() {
 ```C++
 int main () {
 	int number = 10; number = 5;
-
-	std::cout << number;
-	std::cout <<"\n";
-
+	std::cout << number; std::cout <<"\n";
 	return 0;
 }
 ```
