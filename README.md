@@ -10,7 +10,7 @@
 * [Variable Scope](docs/VARIABLE_SCOPE.md)
 * [Standart C++](docs/STANDART_C++.md)
 * [Algorithms](docs/ALGORITHMS_2.md)
-* [Multithreading](docs/MULTITHREADING_2.md)
+* [Multithreading](docs/MULTITHREADING.md)
 * [Syntax Errors](docs/TYPES_OF_ERRORS.md)
 * [Functions](docs/FUNCTIONS.md)
 * [Functors](docs/FUNCTORS.md)
@@ -23,6 +23,7 @@
 * [Compilers](docs/compilers.md)
 * [Questions](docs/questions.md)
 * [Examples](docs/EXAMPLES.md)
+* [Keywords](docs/KEYWORDS.md)
 * Threads
 * Array
 * Автоматицация С++
