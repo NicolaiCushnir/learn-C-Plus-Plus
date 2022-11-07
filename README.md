@@ -1,4 +1,4 @@
-**attention** This repository is very crude and needs editing!
+**Attention !** This repository is very crude and needs editing!
 
 ![image](img/OkXl5y.jpg)
 
@@ -16,7 +16,7 @@
 * [Functors](docs/FUNCTORS.md)
 * [String](docs/STRING.md)
 * [For Loop](docs/FOR_LOOP.md)
-* [Headers](docs/HEADERS_2.md)
+* [Headers](docs/HEADERS.md)
 * [Pattern Design](docs/PATTERN_DESIGN.md)
 * [Garbage Collecton](docs/GARBAGE_COLLECTON.md)
 * [Frameworks](docs/frameworks.md)

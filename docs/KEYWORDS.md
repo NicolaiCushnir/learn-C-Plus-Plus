@@ -1,2 +1,4 @@
-### Key Words
-typedef, 
+### Keywords
+* `typedef`, 
+* `fout.close();`
+* `fout.open("abc.txt");`
