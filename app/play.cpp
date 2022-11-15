@@ -2,6 +2,12 @@
 #include <string>
 
 int main () {
-	std::string message = "și И вот Так\n";
-	std::cout << message;
+	
+	std::cout << "Here is a simple text. \n";
+
+	unsigned short int age = 28; 
+
+	std::cout << age;
+
+	
 }

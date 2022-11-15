@@ -24,8 +24,9 @@
 * [Questions](docs/questions.md)
 * [Examples](docs/EXAMPLES.md)
 * [Keywords](docs/KEYWORDS.md)
+* [Pointers](docs/POINTERS.md)
+* [Array](docsARRAY.md)
 * Threads
-* Array
 * Автоматицация С++
 * Parser
 * OOP 
@@ -36,7 +37,6 @@
 * High Performance
 * Security
 * Optimisation
-* [Pointers](POINTERS.md)
 * Debugging
 * Code Review
 * File System
@@ -56,7 +56,7 @@
 * Прототипирования
 * Компоновщики
 * Линковка
-* утечки памети в с++
+* Утечки памети в с++
 
 ### C++ Blog
 * [Бесконечная обезьяна - блог Нико Браиловского](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html#chapter_n_2)

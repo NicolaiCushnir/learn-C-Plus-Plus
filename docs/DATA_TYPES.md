@@ -25,7 +25,7 @@ double c = 19.3;
 double volume = 134.64534;
 ```
 
-* Type of data `char`. Его размер составляет 1 байт.
+* Type of data `char`. Запомни : "Всегда ставь в одинарных скобках, а не в двойные кавычки". Его размер составляет 1 байт. 
 
 ```C++
 char letter = 'f';
@@ -67,6 +67,12 @@ int main () {
 * `int`
 * `double`
 * `char`
+
+Примеры:
+
+```C++
+
+```
 
 ### Links
 * [programiz](https://www.programiz.com/cpp-programming/data-types)

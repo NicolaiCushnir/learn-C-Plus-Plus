@@ -1,4 +1,4 @@
 ### [Return At Main Page](../README.md)
 
-### Variable Scope
+### Scope (Variable Scope)
 Here will be Variable Scope. Not Soon ... I'm Sorry ... 
