@@ -25,7 +25,7 @@
 * [Examples](docs/EXAMPLES.md)
 * [Keywords](docs/KEYWORDS.md)
 * [Pointers](docs/POINTERS.md)
-* [Array](docsARRAY.md)
+* [Array](docs/ARRAY.md)
 * Threads
 * Автоматицация С++
 * Parser
