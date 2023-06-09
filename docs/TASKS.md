@@ -1,5 +1,7 @@
 ### [return main page](../README.md)
 
+> Задачи надо решать по мере их появление. А не просто так чтобы их делать.
+
 ### Tasks :
 1. Create a clear Desktop Application with extended `exe` for PC Windows 10. I mean automatisation for {node.js server(PORT), nodemon, mongod, mongo terminal}. Something analogic with XAMPP.  
 1. Create a Bot in C++.
