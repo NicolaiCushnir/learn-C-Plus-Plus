@@ -26,7 +26,8 @@
 * [Keywords](docs/KEYWORDS.md)
 * [Pointers](docs/POINTERS.md)
 * [Array](docs/ARRAY.md)
-* Threads
+* [Threads](#)
+* [Tasks](docs/TASKS.md)
 * Автоматицация С++
 * Parser
 * OOP 
