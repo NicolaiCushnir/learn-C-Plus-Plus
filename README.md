@@ -26,38 +26,39 @@
 * [Keywords](docs/KEYWORDS.md)
 * [Pointers](docs/POINTERS.md)
 * [Array](docs/ARRAY.md)
-* [Threads](#)
+* [Threads](docs/THREADS.md)
 * [Tasks](docs/TASKS.md)
-* Автоматицация С++
-* Parser
-* OOP 
-* Multi Paradigm C++
-* Тестирование
-* Нулевая абстракция ?
-* Parallel Programming
-* High Performance
-* Security
-* Optimisation
-* Debugging
-* Code Review
-* File System
-* Парадигмы
-* Benchmarks Game
-* Движок для сайта
-* Core STL C++
-* Classes
-* Objects
-* Constructor
-* Exceptions (try, throw, catch)
-* Системы счисление 
-* Makefile
-* Log Files
-* Переполнений буфера и утечек
-* WinApi
-* Прототипирования
-* Компоновщики
-* Линковка
-* Утечки памети в с++
+* [Автоматицация С++](docs/AUTOMATISATION.md)
+* [Parser](docs/PARSER.md)
+* [OOP](docs/OOP.md) 
+* [Multi Paradigm C++](#)
+* [Тестирование](#)
+* [Нулевая абстракция](#) **?**
+* [Parallel Programming](#)
+* [High Performance](#)
+* [Security](#)
+* [Optimisation](#)
+* [Debugging](#)
+* [Code Review](#)
+* [File System](#)
+* [Парадигмы](#)
+* [Benchmarks Game](#)
+* [Движок для сайта](#)
+* [Core STL C++](#)
+* [Classes](#)
+* [Objects](#)
+* [Constructor](#) **?**
+* [Exceptions](#) **(try, throw, catch)**
+* [Системы счисление](#) 
+* [Makefile](#)
+* [Log Files](#)
+* [Переполнений буфера и утечек](#)
+* [WinApi](#)
+* [Прототипирования](#)
+* [Компоновщики](#)
+* [Линковка](#)
+* [Утечки памети в C++](#)
+* [C++ Network](#)
 
 ### C++ Blog
 * [Бесконечная обезьяна - блог Нико Браиловского](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html#chapter_n_2)
@@ -65,11 +66,11 @@
 ### Books:
 * [tproger.ru](https://tproger.ru/books/cpp-books-master/)
 
-### Video
+### Video YouTube
 * [YouTube : Donut-shaped C code that generates a 3D spinning donut](https://www.youtube.com/watch?v=DEqXNfs_HhY&list=PLQqEY2kzSbZ4NMd7xsuc28a6Kc-_300Jb&index=4&ab_channel=LexFridman)
 * [YouTube : Биты и байты](https://www.youtube.com/watch?v=34E9cAsTQWE&list=PLQqEY2kzSbZ4NMd7xsuc28a6Kc-_300Jb&index=1&t=56s&ab_channel=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%9F%D0%B8%D1%81%D0%B0%D0%BD%D0%B5%D1%86)
 
-### Links ?
+### Extern links :
 * [programiz](https://www.programiz.com/cpp-programming)
 * [Standard library for web](https://cpp-netlib.org/)
 * [Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
