@@ -4,7 +4,8 @@
 
 > Есть всего два типа языков программирования: те, на которые люди всё время ругаются, и те, которые никто не использует. Bjarne Stroustrup.
 
-### learn-C-Plus-Plus
+### learn-C-Plus-Plus :
+* [Introduction](docs/INTRODUCTION.md)
 * [First Program](docs/FIRST_PROGRAM.md)
 * [Data Types](docs/DATA_TYPES.md)
 * [Variable Scope](docs/VARIABLE_SCOPE.md)
@@ -36,7 +37,7 @@
 * [Нулевая абстракция](#) **?**
 * [Parallel Programming](#)
 * [High Performance](#)
-* [Security](#)
+* [Security](docs/SECURITY.md)
 * [Optimisation](#)
 * [Debugging](#)
 * [Code Review](#)
@@ -60,13 +61,13 @@
 * [Утечки памети в C++](#)
 * [C++ Network](#)
 
-### C++ Blog
+### C++ Blog :
 * [Бесконечная обезьяна - блог Нико Браиловского](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html#chapter_n_2)
 
-### Books:
+### Read Books :
 * [tproger.ru](https://tproger.ru/books/cpp-books-master/)
 
-### Video YouTube
+### Video YouTube :
 * [YouTube : Donut-shaped C code that generates a 3D spinning donut](https://www.youtube.com/watch?v=DEqXNfs_HhY&list=PLQqEY2kzSbZ4NMd7xsuc28a6Kc-_300Jb&index=4&ab_channel=LexFridman)
 * [YouTube : Биты и байты](https://www.youtube.com/watch?v=34E9cAsTQWE&list=PLQqEY2kzSbZ4NMd7xsuc28a6Kc-_300Jb&index=1&t=56s&ab_channel=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%9F%D0%B8%D1%81%D0%B0%D0%BD%D0%B5%D1%86)
 

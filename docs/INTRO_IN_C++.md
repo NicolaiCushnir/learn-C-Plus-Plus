@@ -11,43 +11,7 @@
 **Парадигмы программирования которые подержывает С++**
 В мире есть очень много парадигмы. Декларативные, фунциональные, иперативные, логические ... Дадо потом обязательно сказать обо всех парадигм и чем они они различаются.
 
-### Установка на Линуксе :
-1. Нажимаем: `ctrl + alt + t`, чтобы открыть терминал.
-2. Пишем: `sudo apt install g++`
-3. Проверяем в терминал если установилось `gcc --version`.
-4. Идём в наш любимый IdE и пишем код который мы хотим.
-
-### Установка на Windows :
-1. [Visual Studio C++](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
-2. Я обычно иду на официальном сайте `MinGW`.
-3. Скачиваем оттуда [Инстайлер](https://osdn.net/projects/mingw/releases/)
-4. По традиции нажимаем дале :) Но! Будте внимательны, после чего мы скачали мы должны выбрать то что хотим установить. Если не знаеш просто поставь галучку на всех и не парся. Ну короче после чего ты выбрал ставь `Apply`.
-5. Подожни немношко ...
-6. Теперь мы должны PATH
-7. Проверяем gcc compiler `gcc --version`
-8.  Дополнительно! Не требушиво выполнение просто аналогичная установка, тоже самое но с помощю [YouTube](https://www.youtube.com/watch?v=sXW2VLrQ3Bs)
-
-### Links
-1. Link
-2. Link
-3. Link
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### External links where you can learn C++ step by step :
+### Extern links :
 * [Stack Overflow : The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 
