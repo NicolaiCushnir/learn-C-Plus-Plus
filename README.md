@@ -5,7 +5,7 @@
 > Есть всего два типа языков программирования: те, на которые люди всё время ругаются, и те, которые никто не использует. Bjarne Stroustrup.
 
 ### learn-C-Plus-Plus :
-* [Introduction](docs/INTRODUCTION.md)
+* [Introduction](docs/INTROD_IN_C++.md)
 * [First Program](docs/FIRST_PROGRAM.md)
 * [Data Types](docs/DATA_TYPES.md)
 * [Variable Scope](docs/VARIABLE_SCOPE.md)
