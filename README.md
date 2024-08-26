@@ -1,6 +1,6 @@
 **Attention !** This repository is very crude and needs editing!
 
-![image](img/OkXl5y.jpg)
+![image](img/a2.jpg)
 
 > Есть всего два типа языков программирования: те, на которые люди всё время ругаются, и те, которые никто не использует. Bjarne Stroustrup.
 
