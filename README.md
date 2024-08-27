@@ -6,7 +6,7 @@
 
 ### learn-C-Plus-Plus :
 * [Introduction](docs/INTRO_IN_C++.md)
-* [Why C++ ?](WHY_C++.md)
+* [Why C++ ?](docs/WHY_C++.md)
 * [First Program](docs/FIRST_PROGRAM.md)
 * [Data Types](docs/DATA_TYPES.md)
 * [Variable Scope](docs/VARIABLE_SCOPE.md)
