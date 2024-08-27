@@ -21,7 +21,7 @@
 * [Headers](docs/HEADERS.md)
 * [Pattern Design](docs/PATTERN_DESIGN.md)
 * [Garbage Collecton](docs/GARBAGE_COLLECTON.md)
-* [Frameworks](docs/frameworks.md)
+* [Frameworks](docs/FRAMEWORKS.md)
 * [Compilers](docs/compilers.md)
 * [Questions](docs/questions.md)
 * [Examples](docs/EXAMPLES.md)
