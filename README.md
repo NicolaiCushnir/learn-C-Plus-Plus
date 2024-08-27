@@ -42,7 +42,7 @@
 * [Optimisation](#)
 * [Debugging](#)
 * [Code Review](#)
-* [File System](docs/FILE_SYSTEMS.md)
+* [File System](docs/FILE_SYSTEM.md)
 * [Парадигмы](#)
 * [Benchmarks Game](#)
 * [Движок для сайта](#)
