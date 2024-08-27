@@ -1,4 +1,4 @@
-### Заголовочные файлы | [return](../README.md)
+### Заголовочные файлы | [return main page](../README.md)
 * Примеры заголовочных файлов :
 ```c++
 #include <iostream>
@@ -61,7 +61,6 @@
 
 * a 13
 ```C++
-// What are more bellow ?
 #include <cstdlib> // for system
 ```
 * a 14
