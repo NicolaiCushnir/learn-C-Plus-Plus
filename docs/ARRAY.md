@@ -1,7 +1,6 @@
 ### [Return At Main Page](../README.md)
 
 ### Array in C++
-
 not be soon ...
 
 ```c++
@@ -14,3 +13,7 @@ int main() {
 	std::cout << "\n";
 }
 ```
+
+### Extern links :
+* link 1
+* link 2
