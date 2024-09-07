@@ -48,7 +48,7 @@
 * [Движок для сайта](#)
 * [Core STL C++](#)
 * [Classes](#)
-* [Objects](#)
+* [Objects](docs/OBJECTS.md)
 * [Constructor](#) **?**
 * [Exceptions](#) **(try, throw, catch)**
 * [Системы счисление](#) 
