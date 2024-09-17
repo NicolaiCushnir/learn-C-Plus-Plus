@@ -3,6 +3,7 @@ For me :
 
 ### Why C++ ?
 * Back End Develop - High Performance
+* For White Hack
 * Maybe - For Network, App. And even why not, Wi-Fi 1km. Radius. :D
 * Games - Probably something like Strong Hold Crusader
 * Learn Security
