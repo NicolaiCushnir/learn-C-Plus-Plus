@@ -1,14 +1,13 @@
-### [Return At Main Page](../README.md)
+### [return at main page](../README.md)
 
 ### Topic : C++ Frameworks
-* [C++ Dragon Core](https://github.com/an-tao/drogon) - ?
-* [STL](docs/STL.md) - ?
-* [CppCMS](http://cppcms.com/wikipp/en/page/main) - ?
-* [Wt](docs/WT.md) - ?
-* [QT](frameworks/qt/QT.md) - forget of him because in the back him is comercial company. **Remember** Разрабочики развалились на два лагеря. Отстой!
-* [BOOST](BOOST.md) - Надо помиотреть что это за фрукт.
-* [QMAKE](QMAKE.nd) (вроде уже похоронили)
-* **Crow**: Это современный C++ веб-фреймворк, который упрощает создание HTTP-серверов и маршрутизацию запросов.
+* [C++ Dragon Core](FRAMEWORKS/DRAGON_CORE/DRAGON_CORE.md) - ?
+* [STL](FRAMEWORKS/STL/STL.md) - ?
+* [CppCMS](FRAMEWORKS/CPP_CMS.md) - High Performance C++ Web Framework.
+* [Wt](FRAMEWORKS/Wt/WT.md) - Для работы виджетами. Похож на Qt.
+* [QT](FRAMEWORKS/QT/QT.md) - ?
+* [BOOST](FRAMEWORKS/BOOST/BOOST.md) - Надо помиотреть что это за фрукт.
+* [QMAKE](FRAMEWORKS/QMAKE/QMAKE.nd) - Вроде уже похоронилию
+* [Crow](FRAMEWORKS/CROW/CROW.md) - Это современный C++ веб-фреймворк, который упрощает создание HTTP-серверов и маршрутизацию запросов.
 
 
-  
