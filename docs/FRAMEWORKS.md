@@ -1,11 +1,7 @@
 ### [return at main page](../README.md)
 
 ### Topic : C++ Frameworks
-<<<<<<< HEAD
 * [C++ Dragon Core](FRAMEWORKS/DRAGON_CORE/DRAGON_CORE.md) - ?
-=======
-* [C++ Dragon Core](frameworks/DRAGON_CORE/DRAGON_CORE.md) - ?
->>>>>>> 04814f077e565ea37ea739fe02caceb2b51a3ff6
 * [STL](FRAMEWORKS/STL/STL.md) - ?
 * [CppCMS](FRAMEWORKS/CPP_CMS.md) - High Performance C++ Web Framework.
 * [Wt](FRAMEWORKS/Wt/WT.md) - Для работы виджетами. Похож на Qt.
