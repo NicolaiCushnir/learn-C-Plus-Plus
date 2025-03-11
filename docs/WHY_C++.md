@@ -1,7 +1,7 @@
-### [return main page](../README.md)
-For me :
+### [return main page](../README.md) || Topic Why you need better to learn C++ than other languages programming ?
+[...]
 
-### Why C++ ?
+### Why C++ for me :
 * Back End Develop - High Performance
 * For White Hack - другими словами для злома и справедливости.
 * Maybe - For Network, App. And even why not, Wi-Fi 1km. Radius. :D
