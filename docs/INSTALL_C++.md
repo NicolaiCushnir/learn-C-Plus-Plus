@@ -1,4 +1,4 @@
-## [return main page](#) || Topic. Install C++ on your device.
+## [return main page](../README.md) || Topic. Install C++ on your device.
 
 ## Установка на Windows :
 1. Я обычно иду на официальном сайте `MinGW`. Скачиваем оттуда [Installer](https://sourceforge.net/projects/mingw/)
