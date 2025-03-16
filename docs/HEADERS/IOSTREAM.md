@@ -1,4 +1,4 @@
-### [return main page](../../README.md) || Topic. 
+### [return main page](../../README.md) || [return page headers](PAGE_HEADERS.md) ||  Topic. Iostrean Header : 
 * Примеры заголовочных файлов :
 ```c++
 //  1.
@@ -6,9 +6,6 @@
 
 // 2. Work with string :
 #include <string>
-
-// 3. Если захочешь работать с математикой
-#include <cmath>
 
 /*
 ** 4 : 
