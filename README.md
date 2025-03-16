@@ -61,8 +61,10 @@
 54. [Утечки памети в C++](#)
 55. [C++ Network](#)
 56. [Examples](docs/EXAMPLES.md)
-57. [Tasks](docs/TASKS.md)
-58. [Questions](docs/QUESTIONS.md)
+57. [Type conversion](Type conversion)
+58. [This](#)
+59. [Tasks](docs/TASKS.md)
+60. [Questions](docs/QUESTIONS.md)
 
 ### C++ Blog :
 * [Бесконечная обезьяна - блог Нико Браиловского](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html#chapter_n_2)
