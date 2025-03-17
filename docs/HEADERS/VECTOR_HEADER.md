@@ -2,7 +2,7 @@
 
 * Если захочешь работать с математикой
 ```cpp
-
+#include <vector>
 ```
 
 ### Extern links :
