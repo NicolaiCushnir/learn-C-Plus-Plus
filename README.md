@@ -32,7 +32,7 @@
 25. [Frameworks](docs/FRAMEWORKS.md)
 26. [Garbage Collecton](docs/GARBAGE_COLLECTON.md)
 27. [Keywords](docs/KEYWORDS.md) **?**
-28. [Core STL C++](CORE_STL.md)
+28. [Core STL C++](docs/CORE_STL.md)
 29. [File System](docs/FILE_SYSTEM.md)
 30. [Threads](docs/THREADS.md)
 31. [Multithreading](docs/MULTITHREADING.md)
