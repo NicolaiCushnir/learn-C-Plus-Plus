@@ -1,10 +1,12 @@
-### Data Types.
+### [return main page](../README.md) || Topic. Data Types :
+* [String](../../STRING.md)
+* [Number](../../NUMBER.md)
+* [Char](../../CHAR/md)
+* [Objects](../../OBJECTS.md)
+* [Boolean](../../BOOLEAN.md)
+* [Array](../../ARRAY.md)
 
-* Type of data `wchar_t`.
-
-```C++
-// ???
-```
+### Below are exemples :
 
 * Type of data `integer`.
 
@@ -74,6 +76,6 @@ int main () {
 
 ```
 
-### Links
+### Extern links :
 * [programiz](https://www.programiz.com/cpp-programming/data-types)
 * [tutorialspoint](https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm)
