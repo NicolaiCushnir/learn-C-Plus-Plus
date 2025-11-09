@@ -1,10 +1,10 @@
 ### [return main page](../README.md) || Topic. Data Types :
-* [String](../../STRING.md)
-* [Number](../../NUMBER.md)
-* [Char](../../CHAR/md)
-* [Objects](../../OBJECTS.md)
-* [Boolean](../../BOOLEAN.md)
-* [Array](../../ARRAY.md)
+* [String](docs/DATA_TYPES/STRING.md)
+* [Number](docs/DATA_TYPES/NUMBER.md)
+* [Char](docs/DATA_TYPES/CHAR/md)
+* [Objects](docs/DATA_TYPES/OBJECTS.md)
+* [Boolean](docs/DATA_TYPES/BOOLEAN.md)
+* [Array](docs/DATA_TYPES/ARRAY.md)
 
 ### Below are exemples :
 
