@@ -1,7 +1,5 @@
-### [Return At Main Page](../README.md)
-
-### Array in C++
-not be soon ...
+### [return main page](../../README.md) || Topic. Array in C++ :
+will be soon ...
 
 ```c++
 #include <iostream>

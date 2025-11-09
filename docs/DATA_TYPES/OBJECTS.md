@@ -1,7 +1,6 @@
-### [Return At Main Page](../README.md)
-
-### Topic. Objeccts in C++ :
+### [return main page](../../README.md) || Topic. Objeccts in C++ :
 В C++ объект — это экземпляр класса. Синтаксис создания объектов выглядит так :
+
 ```C++
 #include <iostream>
 
