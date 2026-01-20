@@ -1,6 +1,9 @@
 ### [return main page](../../README.md) || Topic. Data Types, number :
-signed && unsigned
+Что значит `signed` и `unsigned` ?
+* `signed` — знак есть, то есть число может быть отрицательным или положительным.
+* `unsigned` — знака нет, число может быть только положительным (или ноль).
 
+### Exemples :
 
 * Type of data `integer`.
 ```C++
