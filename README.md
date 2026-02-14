@@ -7,6 +7,7 @@
 ### learn-C-Plus-Plus :
 1. [Introduction](docs/INTRO_IN_C++.md)
 2. [Why C++ ?](docs/WHY_C++.md)
+3. [Check if instaled](docs/CHECK_IF_INSTALED.md)
 3. [Install C++](docs/INSTALL_C++.md)
 4. [First Program](docs/FIRST_PROGRAM.md)
 5. [Headers](docs/HEADERS/PAGE_HEADERS.md)
