@@ -1,4 +1,4 @@
-## [return main page](../README.md) || Topic. Check if you instaled C++ :
+### [return main page](../README.md) || Topic. Check if you instaled C++ :
 
 If you want to check if C++ is instaled on your computer then use in console or terminal :
 ```bash
@@ -19,5 +19,5 @@ where g++
 which g++
 ```
 
-## Extern link :
+### Extern links :
 * link 1
