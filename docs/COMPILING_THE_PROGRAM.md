@@ -1,17 +1,12 @@
 ### [return main page](../README.md) || Topic. Compiling the Program :
 
-Soon
+* Как обычно компилируется программа.
 ```bash
 g++ -o main main.cpp
 ```
 
+* Показывает как надо скомпилировать программу если она находится в другой папке. Допустим мы находимся в папке `cpp_files` и мы хотим скомпилировать его в папку `exe_files` рядом с folder cpp_files. Мы берём файл `see_utf_8.cpp` и компилируем как показанно ниже :
 ```bash
-g++ see_utf_8.cpp -o ../exe\ files/see_utf_8
-
-# или с кавычками (если в пути пробелы):
-g++ see_utf_8.cpp -o "../exe files/see_utf_8"
-
-# Ну или так :
 g++ see_utf_8.cpp -o ../exe_files/see_utf_8
 ```
 
